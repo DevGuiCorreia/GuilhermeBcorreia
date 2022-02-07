@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @GuilhermeBcorreia
-- 👀 I’m interested in to develop and program systems in general
-- 🌱 I’m currently learning Java, SQL Server, .NET and others
-- 💞️ I’m looking to collaborate on with responsibilities and transparency
-- 📫 I'm live in Araçatuba/SP, in the future in São Bernardo do Campo/SP 
+## Olá, sou Guilherme Correia Devloper ! 
 
-<!---
-GuilhermeBcorreia/GuilhermeBcorreia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/GuilhermeBcorreia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBcorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBcorreia&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/guilherme-correia-7b158420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
