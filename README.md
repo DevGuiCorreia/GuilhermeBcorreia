@@ -1,4 +1,4 @@
-## Olá, sou Guilherme Correia Devloper ! 
+## Olá, sou Guilherme Correia Developer ! 
 
 <div align="center">
   <a href="https://github.com/GuilhermeBcorreia">
