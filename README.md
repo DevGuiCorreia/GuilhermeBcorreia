@@ -1,9 +1,9 @@
 ## Olá, sou Guilherme Correia Developer ! 
 
 <div align="center">
-  <a href="https://github.com/GuilhermeBcorreia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBcorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBcorreia&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/DevGuiCorreia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGuiCorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiCorreia&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
