@@ -1,4 +1,4 @@
-## Olá, sou Guilherme Correia Desenvolvdor Backend PHP ! 
+## Olá, sou Guilherme Correia Desenvolvdor Web ! 
 
 <div align="center">
   <a href="https://github.com/DevGuiCorreia">
